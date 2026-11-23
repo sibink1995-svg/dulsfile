@@ -1,0 +1,6 @@
+<resources>
+    <color name="pane_bar">#263238</color>
+    <color name="pane_bar_active">#880E4F</color>
+    <color name="selected">#55F06292</color>
+    <color name="toolbar_bg">#37474F</color>
+</resources>
